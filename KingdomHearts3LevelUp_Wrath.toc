@@ -8,6 +8,7 @@
 ## SavedVariables: KH3LUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Kingdom Hearts 3-inspired level-up sound!  |n|r  |cff97a8cf/kh3lu -|r Open help  |n|r   |cff97a8cfBy DonnieDice|r
+## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/RGXMods/KingdomHearts3LevelUp
