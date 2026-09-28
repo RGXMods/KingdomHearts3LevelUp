@@ -1,8 +1,10 @@
-## Interface: 30403
-## Version: 2.0.1
+﻿## Interface: 38002
+## Version: 2.0.4
 ## Title:  |cff97a8cfKingdom Hearts 3|r Level Up|cff97a8cf!|r
-## IconTexture: Interface\AddOns\KingdomHearts3LevelUp\media\icon
+## IconTexture: Interface\AddOns\KingdomHearts3LevelUp\media\icon.tga
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: KH3LUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Kingdom Hearts 3-inspired level-up sound!  |n|r  |cff97a8cf/kh3lu -|r Open help  |n|r   |cff97a8cfBy DonnieDice|r

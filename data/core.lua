@@ -9,7 +9,7 @@ local RGX = assert(_G.RGXFramework, "KH3LU: RGX-Framework not loaded")
 
 KH3LU = KH3LU or {}
 
-local ADDON_VERSION = "2.0.2"
+local ADDON_VERSION = "2.0.4"
 local ADDON_NAME = "KingdomHearts3LevelUp"
 local PREFIX = "|Tinterface/addons/KingdomHearts3LevelUp/media/icon:16:16|t - |cffffffff[|r|cffb2c8ffKH3LU|r|cffffffff]|r "
 local TITLE = "|Tinterface/addons/KingdomHearts3LevelUp/media/icon:18:18|t [|cffb2c8ffK|r|cffffffffingdom Hearts 3|r |cffb2c8ffL|r|cffffffffevel|r |cffb2c8ffU|r|cffb2c8ffp|r|cffb2c8ff!|r]"
