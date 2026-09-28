@@ -42,12 +42,15 @@ KH3LU does not alter leveling, experience gains, UI frames, or game data. It onl
 
 | WoW flavor | TOC | Interface |
 |---|---|---:|
-| Retail | `KingdomHearts3LevelUp.toc` | `120007` |
-| Wrath Classic | `KingdomHearts3LevelUp_Wrath.toc` | `30403` |
-| Burning Crusade Classic | `KingdomHearts3LevelUp_TBC.toc` | `20504` |
-| Classic Era | `KingdomHearts3LevelUp_Vanilla.toc` | `11500` |
+| Retail | `KingdomHearts3LevelUp.toc` | `120100` |
+| WoW Forever (Beta) | `KingdomHearts3LevelUp_Forever.toc` | `16001` |
+| Mists of Pandaria Classic | `KingdomHearts3LevelUp_Mists.toc` | `50504` |
+| Cataclysm Classic | `KingdomHearts3LevelUp_Cata.toc` | `40402` |
+| Wrath Classic | `KingdomHearts3LevelUp_Wrath.toc` | `38002` |
+| Burning Crusade Classic | `KingdomHearts3LevelUp_TBC.toc` | `20506` |
+| Classic Era | `KingdomHearts3LevelUp_Vanilla.toc` | `11509` |
 
-These values describe the preserved release metadata. The addon is deprecated, so they are not a promise of compatibility with later game clients.
+These values describe the current release metadata. The addon is deprecated, so they are not a promise of compatibility with later game clients.
 
 ***
 
