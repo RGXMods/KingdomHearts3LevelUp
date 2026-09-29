@@ -54,6 +54,29 @@ These values describe the current release metadata. The addon is deprecated, so 
 
 ***
 
+## <span style="color: #b2c8ff;">🌍 Language Support</span>
+
+KH3LU ships built-in translations for every WoW client locale and automatically follows the client language:
+
+| Locale | Language |
+|---|---|
+| `enUS` | English (base strings) |
+| `deDE` | German |
+| `esES` | Spanish (Spain) |
+| `esMX` | Spanish (Latin America) |
+| `frFR` | French |
+| `itIT` | Italian |
+| `koKR` | Korean |
+| `ptBR` | Portuguese (Brazil) |
+| `ptPT` | Portuguese (Portugal) |
+| `ruRU` | Russian |
+| `zhCN` | Chinese (Simplified) |
+| `zhTW` | Chinese (Traditional) |
+
+All chat, help, status, and welcome text is localized in `data/locales.lua`, with `enUS` as the structural base. Locales without a translated key fall back to the English value, so no untranslated key leaks into the game UI.
+
+***
+
 ## <span style="color: #b2c8ff;">📥 Installation</span>
 
 1. Download a packaged release of KingdomHearts3LevelUp and install RGX-Framework.
