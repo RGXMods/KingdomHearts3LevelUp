@@ -1,4 +1,4 @@
-﻿## Interface: 40402
+## Interface: 40402
 ## Version: 2.0.4
 ## Title:  |cff97a8cfKingdom Hearts 3|r Level Up|cff97a8cf!|r
 ## IconTexture: Interface\AddOns\KingdomHearts3LevelUp\media\icon.tga
